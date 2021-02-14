@@ -1,0 +1,17 @@
+.container {
+    width: 100vw;
+    height: fit-content;
+    min-height: 100vh;
+}
+.main {
+    margin-top: "10vh";
+    padding-top: "10vh";
+}
+#formBasicEmail {
+    text-align: left;
+}
+.conBack {
+    height: 2vh;
+    width: 2vw;
+    border-radius: 50%;
+}
