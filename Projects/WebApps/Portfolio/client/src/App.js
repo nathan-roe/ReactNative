@@ -3,11 +3,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Navbar from 'react-bootstrap/Navbar';
 import {Router, Link} from '@reach/router';
 
-import Projects from './views/Projects';
 import Main from './views/Main';
-import Contact from './views/Contact';
-import About from './views/About';
-
+import Device from './views/Device';
+import $ from 'jquery';
 function App() {
   return (
     <div className="App">
@@ -17,28 +15,18 @@ function App() {
             <Navbar.Brand href="/" id="brand">
               Nathan Roe
             </Navbar.Brand>
-            <ul class="navbar-nav">
-              <li class="nav-item active">
-                <Link class="nav-link" to="/">Home</Link>
-              </li>
-              <li class="nav-item active">
-                <Link class="nav-link" to="/about">About</Link>
-              </li>
-              <li class="nav-item active">
-                <Link class="nav-link" to="/projects">Projects</Link>
-              </li>
-              <li class="nav-item active">
-                <Link class="nav-link" to="/contact">Contact</Link>
-              </li>
-            </ul>
           </div>
         </Navbar>
       </div>
       <Router>
-        < Main path= '/'/>
-        < Projects path='projects/'/>
-        < Contact path='/contact'/>
-        < About path='/about'/>
+      {
+        $(window).width() < 1218 || $(window).height() < 536 ? 
+          <Device path= '/'/>
+        :
+          < Main path= '/'/>
+      }
+        
+        
       </Router>
       
     </div>

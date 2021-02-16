@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac0e4773.chunk.css",
+    "main.js": "/static/js/main.da630c3c.chunk.js",
+    "main.js.map": "/static/js/main.da630c3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.697bc5e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.697bc5e1.js.map",
+    "static/css/2.2dad7aaa.chunk.css": "/static/css/2.2dad7aaa.chunk.css",
+    "static/js/2.3e1fc563.chunk.js": "/static/js/2.3e1fc563.chunk.js",
+    "static/js/2.3e1fc563.chunk.js.map": "/static/js/2.3e1fc563.chunk.js.map",
+    "static/js/3.434a86ea.chunk.js": "/static/js/3.434a86ea.chunk.js",
+    "static/js/3.434a86ea.chunk.js.map": "/static/js/3.434a86ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2dad7aaa.chunk.css.map": "/static/css/2.2dad7aaa.chunk.css.map",
+    "static/css/main.ac0e4773.chunk.css.map": "/static/css/main.ac0e4773.chunk.css.map",
+    "static/js/2.3e1fc563.chunk.js.LICENSE.txt": "/static/js/2.3e1fc563.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/VarelaRound-Regular.3b7ffe17.ttf",
+    "static/media/chatApp.933ef647.jpg": "/static/media/chatApp.933ef647.jpg",
+    "static/media/faceDetection.8cf3fd2c.jpg": "/static/media/faceDetection.8cf3fd2c.jpg",
+    "static/media/linkedCS.d0e0b21b.jpg": "/static/media/linkedCS.d0e0b21b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697bc5e1.js",
+    "static/css/2.2dad7aaa.chunk.css",
+    "static/js/2.3e1fc563.chunk.js",
+    "static/css/main.ac0e4773.chunk.css",
+    "static/js/main.da630c3c.chunk.js"
+  ]
+}
