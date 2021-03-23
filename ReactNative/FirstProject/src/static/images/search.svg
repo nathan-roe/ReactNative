@@ -1,0 +1,8 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" class="bi bi-search">
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" id="svg_1" d="m10.97173,7.96792a5.06535,4.4459 0 1 0 -1.08866,0.95621l-0.00078,0c0.02338,0.02736 0.04832,0.05335 0.07637,0.07866l3.00025,2.63334a0.77929,0.68399 0 0 0 1.10269,-0.96716l-3.00025,-2.63334a0.78474,0.68877 0 0 0 -0.08962,-0.0684l0,0.00068zm0.20106,-2.62924a4.28607,3.76192 0 1 1 -8.57214,0a4.28607,3.76192 0 0 1 8.57214,0z"/>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="3" id="svg_2" y="14.50242" x="2.8691" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="null" fill="#000000">Search</text>
+ </g>
+</svg>

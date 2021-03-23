@@ -1,0 +1,9 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" class="bi bi-layers-fill">
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" transform="rotate(-89.82293701171875 8.140132904052734,5.398249626159669) " id="svg_1" d="m7.98298,3.20673a0.33437,0.24674 0 0 1 0.31431,0l5.01562,1.97389a0.33437,0.24674 0 0 1 0,0.43524l-5.01562,1.97389a0.33437,0.24674 0 0 1 -0.31431,0l-5.01562,-1.97389a0.33437,0.24674 0 0 1 0,-0.43524l5.01562,-1.97389z"/>
+  <path stroke="null" id="svg_2" d="m3.66936,8.50137l-1.41616,0.51562a0.38069,0.25989 0 0 0 0,0.45844l5.71033,2.07911a0.38069,0.25989 0 0 0 0.35785,0l5.71033,-2.07911a0.38069,0.25989 0 0 0 0,-0.45844l-1.41616,-0.51562l-3.93632,1.43251a1.14207,0.77967 0 0 1 -1.07354,0l-3.93632,-1.43251z"/>
+  <text stroke="null" transform="matrix(1.07493257522583,0,0,1.1350637674331665,-0.3535880893468857,-2.013294283300638) " xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="3" id="svg_3" y="13.9666" x="4.4056" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#000000">More</text>
+ </g>
+</svg>

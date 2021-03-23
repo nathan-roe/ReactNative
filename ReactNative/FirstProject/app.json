@@ -1,0 +1,9 @@
+{
+    "expo": {
+        "name": "Poppy's Comics",
+        "slug": "FirstProject",
+        "packagerOpts": {
+        "config": "metro.config.js"
+        }
+    }
+}
